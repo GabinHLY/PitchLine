@@ -157,7 +157,7 @@
   color: #fff;
 }
 
-.footer-bottom {
+.footer-bottom {    
   width: 100%;
   display: flex;
   justify-content: center;
