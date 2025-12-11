@@ -22,9 +22,6 @@
 			</div>
 
 			<nav class="links" :class="{ 'links--open': isMenuOpen }" aria-label="Navigation principale">
-				<a href="#discover" class="link" @click="isMenuOpen = false">À propos</a>
-				<NuxtLink to="/services" class="link" @click="isMenuOpen = false">Services</NuxtLink>
-				<NuxtLink to="/abonnements" class="link" @click="isMenuOpen = false">Abonnements</NuxtLink>
 				<NuxtLink to="/demo" class="cta cta--desktop">Tester la démo</NuxtLink>
 			</nav>
 		</div>

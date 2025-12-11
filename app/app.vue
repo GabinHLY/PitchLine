@@ -1,9 +1,12 @@
 <script setup lang="ts">
 import Header from './components/Header.vue';
 import Discover from './components/Discover.vue'; 
-import Services from './components/Services.vue';
 import Parallax from './components/Parallax.vue';
-import Card from './components/Card.vue';
+import Services from './components/Services.vue';
+import Banner from './components/Banner.vue';
+import Avis from './components/Avis.vue';   
+import Faq from './components/Faq.vue';
+import Banner2 from './components/Banner2.vue';
 import Footer from './components/Footer.vue';
 </script>
 
@@ -13,7 +16,10 @@ import Footer from './components/Footer.vue';
     <Discover />
     <Services />
     <Parallax />
-    <Card />
+    <Banner />
+    <Avis />
+    <Faq />
+    <Banner2 />
     <Footer />
   </div>
 </template>

@@ -10,35 +10,27 @@
           <div class="link-column">
             <h3>Produits</h3>
             <ul>
-              <li><a href="#">Lorem</a></li>
-              <li><a href="#">Lorem</a></li>
-            </ul>
-          </div>
-          <div class="link-column">
-            <h3>Partenaire</h3>
-            <ul>
-              <li><a href="#">Lorem</a></li>
-              <li><a href="#">Lorem</a></li>
-              <li><a href="#">Lorem</a></li>
-              <li><a href="#">Lorem</a></li>
-              <li><a href="#">Lorem</a></li>
+              <li><a href="p">Analyse video</a></li>
+              <li><a href="p">Tracking</a></li>
+              <li><a href="p">Statistique</a></li>
             </ul>
           </div>
           <div class="link-column">
             <h3>Entreprise</h3>
             <ul>
-              <li><a href="#">Lorem</a></li>
-              <li><a href="#">Lorem</a></li>
-              <li><a href="#">Lorem</a></li>
+              <li><a href="p">Notre vision</a></li>
+              <li><a href="p">Press</a></li>
+              <li><a href="p">Recrutement</a></li>
+              <li><a href="p">Contact</a></li>
             </ul>
           </div>
           <div class="link-column">
-            <h3>Ressources</h3>
+            <h3>Ressource</h3>
             <ul>
-              <li><a href="#">Lorem</a></li>
-              <li><a href="#">Lorem</a></li>
-              <li><a href="#">Lorem</a></li>
-              <li><a href="#">Lorem</a></li>
+              <li><a href="p">Centre aide</a></li>
+              <li><a href="p">SAV</a></li>
+              <li><a href="p">Contact</a></li>
+              <li><a href="p">FAQ</a></li>
             </ul>
           </div>
         </div>

@@ -7,7 +7,7 @@
 				<p class="hero__lede">
 					Déposez la vidéo, obtenez des stats claires, des zones d’occupation et des pistes d’ajustements pour chaque joueur. Pensé pour les coachs et analystes de football amateur à semi-pro.
 				</p>
-				<button class="btn btn--outline">En savoir plus</button>
+				<button class="btn btn--outline">Tester la démo</button>
 			</div>
 		</div>
 
@@ -138,7 +138,7 @@
 
 .btn--outline:hover {
 	transform: translateY(-1px);
-	border-color: #9fe7ff;
+	border-color: #70ED70;
 	box-shadow: 0 18px 32px rgba(0, 0, 0, 0.22);
 }
 
@@ -175,7 +175,7 @@
 	text-transform: uppercase;
 	letter-spacing: 0.12em;
 	font-size: 0.8rem;
-	color: #8bd6ff;
+	color: #70ED70;
 	font-weight: 700;
 }
 
@@ -225,7 +225,7 @@
 .visual__placeholder {
 	width: 100%;
 	height: 100%;
-	background: #4af463;
+	background: url("@/assets/img/mockup.png") center/cover no-repeat;
 	border-radius: 18px;
 }
 
