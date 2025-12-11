@@ -1,7 +1,7 @@
 <template>
 	<section class="banner">
 		<div class="banner__content">
-			<h1>Transformez vos données en décisions.</h1>
+			<h1>Convertissez vos données en actions.</h1>
 			<button class="banner__cta">Tester la démo</button>
 		</div>
 	</section>
