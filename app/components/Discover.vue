@@ -16,10 +16,7 @@
 				<article class="panel">
 					<h2>Découvrez la première version de l’assistant vidéo</h2>
 					<p class="panel__body">
-						La première version de l’outil se concentre sur l’essentiel : vous partez d’une simple vidéo de match et vous la transformez en matière exploitable pour vos analyses. Après avoir importé votre fichier, vous pouvez revoir le match dans une interface dédiée et placer des tags aux moments clés : récupérations de balle, tirs, pertes, entrées dans le dernier tiers, situations de pressing… Chaque événement est enregistré avec le temps exact, la zone du terrain et le joueur concerné. En quelques minutes, vous disposez d’une timeline structurée qui remplace le bloc-notes ou les pauses incessantes sur la barre de lecture.
-					</p>
-					<p class="panel__body">
-						À partir de ces tags, la V1 génère déjà un premier niveau d’analyse : nombre d’actions offensives et défensives, répartition des événements par zones, séquences à fort impact, implication de chaque joueur dans le jeu. Vous pouvez revenir immédiatement sur une situation précise, préparer vos retours vidéo avec l’équipe et identifier les tendances du match sans devoir recompter tout à la main. Ce n’est pas encore du tracking automatique, mais c’est un gain de temps énorme pour structurer vos observations et poser les bases d’une analyse tactique plus poussée.
+						Vous partez d’une simple vidéo de match et vous la transformez en matière exploitable pour vos analyses. Après avoir importé votre fichier, vous pouvez revoir le match dans une interface dédiée et placer des tags aux moments clés : récupérations de balle, tirs, pertes, entrées dans le dernier tiers, situations de pressing… Chaque événement est enregistré avec le temps exact, la zone du terrain et le joueur concerné. En quelques minutes, vous disposez d’une timeline structurée qui remplace le bloc-notes ou les pauses incessantes sur la barre de lecture.
 					</p>
 					<button class="btn btn--solid">Tester la démo</button>
 				</article>
